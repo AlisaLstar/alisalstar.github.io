@@ -1,0 +1,59 @@
+
+.bodyimage {
+    display: flex;  
+    flex-wrap: wrap;
+  }
+
+
+body {
+    background-image: url("image/sky.png");
+    height: 100%;
+}
+.navbar-brand-custom {
+    background-color: turquoise;
+    font-family: 'Libre Baskerville';
+    border-color: turquoise;
+}
+.bodycontent {
+    height: 100%;
+    /* margin-top: ; */
+}
+html {
+    height: 100%;
+}
+
+.contact-header {
+    font-family: 'Libre Baskerville';
+    color: turquoise;
+}
+
+.aboutcontent {
+    background-color: white;
+    padding: 16px;
+    margin: 32px;
+}
+
+.footer {
+    border-top: 4px solid turquoise;
+    padding-left: 0;
+    padding-right: 0;
+
+}
+
+.clearing {
+    clear: both;
+}
+
+.imagesize {
+    height: 12.5rem;
+    width: 12.5rem;
+}
+
+.mainbody {
+    background-color: white;
+    margin-top: 5%;
+}
+
+.portfoliopadding {
+    margin: 1%;
+}
